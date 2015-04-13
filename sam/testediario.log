@@ -1,0 +1,17 @@
+“<?xml version=’1.0′ encoding=’ISO-8859-1′ ?>
+  <evento>
+    <data>20:35<\data>
+    <estado>0Y1Y2Y3Y4Y<\estado>
+  <\evento>
+  <evento>
+    <data>20:40<\data>
+    <estado>5Y6Y7Y8Y9Y<\estado>
+  <\evento>
+  <evento>
+    <data>20:42<\data>
+    <estado>2Y<\estado>
+  <\evento>
+  <evento>
+    <data>20:45<\data>
+    <estado>8Y<\estado>
+  <\evento>
